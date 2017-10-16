@@ -1,0 +1,25 @@
+.filters {
+  color:white;
+  height:70x;
+  width:100%;
+  border:1px;
+  border-color:#DDDDDD;
+  border-radius:4px;
+}
+
+#rockon button {
+  font-size:18px;
+  background:#FF5A5F;
+  color:white;
+  height:48px;
+  width:20%;
+  border-radius:4px;
+  vertical-align:middle;
+  margin-left:30px;
+  opacity:100%;
+}
+
+button:hover {
+  opacity:90%;
+}
+
